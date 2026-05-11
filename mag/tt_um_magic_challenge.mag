@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778512336
+timestamp 1778512830
 << error_s >>
 rect 29957 10486 30015 10492
 rect 29957 10452 29969 10486
@@ -180,7 +180,7 @@ rect 37272 1366 37392 18840
 rect 31312 1246 37392 1366
 rect 31312 0 31432 1246
 use challenge  challenge_0 /foss/designs/magic_challenge/mag
-timestamp 1778512336
+timestamp 1778512830
 transform 1 0 24307 0 1 2986
 box -1780 -796 8912 14998
 << labels >>
